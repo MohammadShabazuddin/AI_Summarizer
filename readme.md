@@ -1,8 +1,7 @@
 <div align="center">
+    <h1 align="center">An AI Article Summarizer Website</h1>
   <br />
-    <a href="https://youtu.be/vpvtZZi5ZWk?feature=shared" target="_blank">
-      <img src="https://github.com/adrianhajdin/project_ai_summarizer/assets/151519281/90267296-c133-4cb1-a27e-fe1a3aa522b9" alt="Project Banner">
-    </a>
+      <img width="537" alt="image" src="https://github.com/MohammadShabazuddin/AI_Summarizer/assets/44221567/d556bfc2-7232-48aa-ac83-cbce88f409b7">
   <br />
 
   <div>
@@ -12,11 +11,9 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
 
-  <h3 align="center">An AI Article Summarizer Website</h3>
 
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
+
+ 
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -27,23 +24,14 @@
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Snippets](#snippets)
 6. 🔗 [Links](#links)
-7. 🚀 [More](#more)
+7. 🚀 [Contact](#more)
 
-## 🚨 Tutorial
-
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>. 
-
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
-
-<a href="https://youtu.be/vpvtZZi5ZWk?feature=shared" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
 
 ## <a name="introduction">🤖 Introduction</a>
 
 Summarize any kind of article with just one click using the powerful OpenAI model.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
 
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -259,25 +247,47 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 
 Assets used in the project are [here](https://drive.google.com/file/d/11DLzrWADT-GyhuHpWXobhUwqV8peC0ef/view)
 
-## <a name="more">🚀 More</a>
+## <a name="more">🚀 Contact</a>
+_Connect with me through various portals :_
 
-**Advance your skills with Next.js 14 Pro Course**
+<table>
+  <tr>
+    <th></th>
+    <th>Social Media</th>
+    <th>Username</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="20" /></td>
+    <td>Email</td>
+    <td><code>shabazuddin.198@gmail.com</code></td>
+    <td><a href="mailto:shabazuddin.198@gmail.com" target="_blank">Email</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" width="20" /></td>
+    <td>LinkedIn</td>
+    <td><code>Shabazuddin Mohammad</code></td>
+    <td><a href="https://www.linkedin.com/in/shabazuddin123/" target="_blank">LinkedIn</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" width="20" /></td>
+    <td>Instagram</td>
+    <td><code>shabaz_uddin</code></td>
+    <td><a href="https://www.instagram.com/shabaz_uddin/" target="_blank">Instagram</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" width="20" /></td>
+    <td>Facebook</td>
+    <td><code>Shabaz</code></td>
+    <td><a href="https://www.facebook.com/shabaz.shabaz.37819/" target="_blank">Facebook</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png" width="20" /></td>
+    <td>Twitter</td>
+    <td><code>shabazuddin786</code></td>
+    <td><a href="https://twitter.com/shabazuddin786" target="_blank">Twitter</a></td>
+  </tr>
+</table>
 
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
+I'm always open to collaboration and new opportunities! Feel free to reach out and connect with me. 🌟
 
-<a href="https://jsmastery.pro/next14" target="_blank">
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/557837ce-f612-4530-ab24-189e75133c71" alt="Project Banner">
-</a>
-
-<br />
-<br />
-
-**Accelerate your professional journey with the Expert Training program**
-
-And if you're hungry for more than just a course and want to understand how we learn and tackle tech challenges, hop into our personalized masterclass. We cover best practices, different web skills, and offer mentorship to boost your confidence. Let's learn and grow together!
-
-<a href="https://www.jsmastery.pro/masterclass" target="_blank">
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/fed352ad-f27b-400d-9b8f-c7fe628acb84" alt="Project Banner">
-</a>
-
-#
